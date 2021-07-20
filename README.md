@@ -44,7 +44,7 @@ android {
 
 
 ### …or push an existing repository from the command line
-git remote add origin https://github.com/takumi000000/flutter_firebase_firestore.git
+git remote add origin https://github.com/takumi000000/flutter_firestore_push_msg
 git branch -M main
 git push -u origin main# flutter_firebase_firestore
 "# flutter_firebase_firestore" 
