@@ -17,8 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
 * Flutter 2.2.3
 * Dart 2.13.4 (tools)
 * cloud_firestore: ^2.0.0
